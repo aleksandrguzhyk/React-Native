@@ -11,7 +11,7 @@ export default class Auth extends Component {
   
   componentWillMount() {
     firebase.initializeApp({
-      apiKey: "AIzaSyBk1_onGI6RorYhccIapNAX2dqKbKEcIrg",
+      apiKey: "-- YOUR API KEY -- ",
       authDomain: "auth-925b4.firebaseapp.com",
       databaseURL: "https://auth-925b4.firebaseio.com",
       projectId: "auth-925b4",
