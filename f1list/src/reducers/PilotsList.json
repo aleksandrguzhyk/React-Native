@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "title": "lewis hamilton",
+    "email": "lewis.hamilton@f1.com",
+    "team": "mercedes"
+  },
+  {
+    "id": 1,
+    "title": "valteri bottas",
+    "email": "valteri.bottas@f1.com",
+    "team": "mercedes"
+    },
+  {
+    "id": 2,
+    "title": "sebastian vettel",
+    "email": "sebastian.vettel@f1.com",
+    "team": "ferrari"
+    },
+  {
+    "id": 3,
+    "title": "charles leclerc",
+    "email": "charles.leclerc@f1.com",
+    "team": "ferrari"
+    },
+  {
+    "id": 4,
+    "title": "max verstappen",
+    "email": "max.verstappen@f1.com",
+    "team": "red bull racing"
+    },
+  {
+    "id": 5,
+    "title": "pierre gasly",
+    "email": "pierre.gasly@f1.com",
+    "team": "red bull racing"
+    },
+  {
+    "id": 6,
+    "title": "carlo sainz",
+    "email": "carlo.sainz@f1.com",
+    "team": "maclaren"
+    },
+  {
+    "id": 7,
+    "title": "landro norris",
+    "email": "landro.norris@f1.com",
+    "team": "maclaren"
+    },
+  {
+    "id": 8,
+    "title": "kimi raikkonen",
+    "email": "kimi.raikkonen@f1.com",
+    "team": "alfa romeo"
+    },
+    {
+      "id": 9,
+      "title": "antonio gioinazzi",
+      "email": "antonio.gioinazzi@f1.com",
+      "team": "alfa romeo"
+    },
+    {
+      "id": 10,
+      "title": "daniel ricciardo",
+      "email": "daniel.ricciardo@f1.com",
+      "team": "renault"
+    },
+    {
+      "id": 11,
+      "title": "nico hulkenberg",
+      "email": "nico.hulkenberg@f1.com",
+      "team": "renault"
+    },
+    {
+      "id": 12,
+      "title": "kevin magnussen",
+      "email": "kevin.magnussen@f1.com",
+      "team": "haas"
+    },
+    {
+      "id": 13,
+      "title": "romain grosjean",
+      "email": "kevin.magnussen@f1.com",
+      "team": "haas"
+    },
+    {
+      "id": 14,
+      "title": "sergio perez",
+      "email": "sergio.perez@f1.com",
+      "team": "racing point"
+    },
+    {
+      "id": 15,
+      "title": "lance stroll",
+      "email": "lance.stroll@f1.com",
+      "team": "racing point"
+    },
+    {
+      "id": 16,
+      "title": "daniil kvyat",
+      "email": "daniil.kvyat@f1.com",
+      "team": "toro rosso"
+    },
+    {
+      "id": 17,
+      "title": "alexander albon",
+      "email": "alexander.albon@f1.com",
+      "team": "toro rosso"
+    },
+    {
+      "id": 18,
+      "title": "george russell",
+      "email": "george.russell@f1.com",
+      "team": "williams"
+    },
+    {
+      "id": 19,
+      "title": "robert kubica",
+      "email": "robert.kubica@f1.com",
+      "team": "williams"
+    }
+]
