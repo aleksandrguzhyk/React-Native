@@ -1,26 +1,22 @@
 import React, {Component} from 'react'
 import {View, Text, Image} from 'react-native'
 import styles from './PilotItemStyle.js'
-import PropTypes from 'prop-types'
 
 class PilotItem extends Component {
-componentWillMount() {
-  pilot = this.props.pilot
-}
   
   render() {
-    console.log(pilot, '-- props');
     return ( 
-      // <View>
-      //   <Image source = {this.props.pilot.avatar}
-      //   style = { styles.image }
-      //   />
-      // </View>
-      <View>
-        <Text>Bla-bla-bla</Text>
-        <Text>{pilot.title}</Text>
-        <Text> Bla - bla - bla 222</Text>
-
+      <View style={styles.container}>
+        <View>
+          <Image 
+          source = {{uri: this.props.pilot.item.avatar}}
+          style = {styles.image}
+          />
+        </View>
+        <View style={styles.textRow}>
+          <Text style={styles.title}>{this.props.pilot.item.title}</Text>
+          <Text style={styles.team}>{this.props.pilot.item.team}</Text>
+        </View>
       </View>
     );
   }

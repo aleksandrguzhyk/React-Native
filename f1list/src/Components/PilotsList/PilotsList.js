@@ -24,7 +24,6 @@ class PilotsList extends Component {
           renderItem = {this.renderItem}
           keyExtractor = {(pilot) => pilot.id} 
         />
-        {/* <Text>{this.props.pilots.title}</Text> */}
       </View>
     );
   }

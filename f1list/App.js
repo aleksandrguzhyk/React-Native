@@ -22,7 +22,7 @@ export default class App extends Component<Props> {
     return (
       <Provider store = { createStore(reducers) } >
         <View style={styles.container} >
-          <Text style={styles.header}>F1 Pilots List</Text>
+          <Text style={styles.header}>F1 Drivers, season 2019</Text>
         </View>
         <PilotsList />
       </Provider>

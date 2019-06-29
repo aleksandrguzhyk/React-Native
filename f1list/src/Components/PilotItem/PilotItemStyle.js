@@ -1,9 +1,4 @@
-import React, {
-  Component
-} from "react";
-import {
-  StyleSheet
-} from "react-native";
+import { StyleSheet } from "react-native"
 
 export default StyleSheet.create({
   container: {
@@ -25,10 +20,13 @@ export default StyleSheet.create({
     marginBottom: 10,
     marginLeft: 10,
   },
-  textName: {
+  title: {
     fontWeight: '600',
+    fontSize: 20,
+    textTransform: 'capitalize'
   },
-  mail: {
-    color: '#023475'
+  team: {
+    textTransform: 'uppercase',
+    color: "#808080"
   }
 });
