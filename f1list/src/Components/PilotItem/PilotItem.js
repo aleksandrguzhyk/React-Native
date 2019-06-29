@@ -2,15 +2,14 @@ import React, {Component} from 'react'
 import {View, Text, Image} from 'react-native'
 import styles from './PilotItemStyle.js'
 
-class PilotItem extends Component {
-  
+class PilotItem extends Component {  
   render() {
     return ( 
       <View style={styles.container}>
         <View>
           <Image 
-          source = {{uri: this.props.pilot.item.avatar}}
-          style = {styles.image}
+          source={{uri: this.props.pilot.item.avatar}}
+          style={styles.image}
           />
         </View>
         <View style={styles.textRow}>

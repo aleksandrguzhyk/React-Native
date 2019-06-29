@@ -1,141 +1,122 @@
 [
   {
     "id": 0,
-    "avatar": "require(\"../Images/hamilton.jpg\")",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
     "title": "lewis hamilton",
     "team": "mercedes"
   },
   {
     "id": 1,
-    "avatar": "require(\"../Images/bottas.jpg\")",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
     "title": "valteri bottas",
-    "team": "mercedes",  
-    "bio": "valteri.bottas@f1.com"
+    "team": "mercedes"
     },
   {
     "id": 2,
-    "avatar": "require(\"../Images/vettel.jpg\")",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
     "title": "sebastian vettel",
-    "email": "sebastian.vettel@f1.com",
     "team": "ferrari"
     },
   {
     "id": 3,
-    "avatar": "require(\"../Images/leclerc.jpg\")",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
     "title": "charles leclerc",
-    "email": "charles.leclerc@f1.com",
     "team": "ferrari"
     },
   {
     "id": 4,
-    "avatar": "require(\"../Images/verstappen.jpg\")",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
     "title": "max verstappen",
-    "email": "max.verstappen@f1.com",
     "team": "red bull racing"
     },
   {
     "id": 5,
-    "avatar": "require(\"../Images/gasly.jpg\")",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
     "title": "pierre gasly",
-    "email": "pierre.gasly@f1.com",
     "team": "red bull racing"
     },
   {
     "id": 6,
-    "avatar": "require(\"../Images/sainz.jpg\")",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
     "title": "carlo sainz",
-    "email": "carlo.sainz@f1.com",
     "team": "maclaren"
     },
   {
     "id": 7,
-    "avatar": "require(\"../Images/norris.jpg\")",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
     "title": "landro norris",
-    "email": "landro.norris@f1.com",
     "team": "maclaren"
     },
   {
     "id": 8,
-    "avatar": "require(\"../Images/raikkonen.jpg\")",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
     "title": "kimi raikkonen",
-    "email": "kimi.raikkonen@f1.com",
     "team": "alfa romeo"
     },
     {
-      "id": 9,
-      "avatar": "require(\"../Images/gioinazzi.jpg\")",
-      "title": "antonio gioinazzi",
-      "email": "antonio.gioinazzi@f1.com",
-      "team": "alfa romeo"
+    "id": 9,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "antonio gioinazzi",
+    "team": "alfa romeo"
     },
     {
-      "id": 10,
-      "avatar": "require(\"../Images/ricciardo.jpg\")",
-      "title": "daniel ricciardo",
-      "email": "daniel.ricciardo@f1.com",
-      "team": "renault"
+    "id": 10,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "daniel ricciardo",
+    "team": "renault"
     },
     {
-      "id": 11,
-      "avatar": "require(\"../Images/hulkenberg.jpg\")",
-      "title": "nico hulkenberg",
-      "email": "nico.hulkenberg@f1.com",
-      "team": "renault"
+    "id": 11,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "nico hulkenberg",
+    "team": "renault"
     },
     {
-      "id": 12,
-      "avatar": "require(\"../Images/magnussen.jpg\")",
-      "title": "kevin magnussen",
-      "email": "kevin.magnussen@f1.com",
-      "team": "haas"
+    "id": 12,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "kevin magnussen",
+    "team": "haas"
     },
     {
-      "id": 13,
-      "avatar": "require(\"../Images/grosjean.jpg\")",
-      "title": "romain grosjean",
-      "email": "kevin.magnussen@f1.com",
-      "team": "haas"
+    "id": 13,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "romain grosjean",
+    "team": "haas"
     },
     {
-      "id": 14,
-      "avatar": "require(\"../Images/perez.jpg\")",
-      "title": "sergio perez",
-      "email": "sergio.perez@f1.com",
-      "team": "racing point"
+    "id": 14,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "sergio perez",
+    "team": "racing point"
     },
     {
-      "id": 15,
-      "avatar": "require(\"../Images/stroll.jpg\")",
-      "title": "lance stroll",
-      "email": "lance.stroll@f1.com",
-      "team": "racing point"
+    "id": 15,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "lance stroll",
+    "team": "racing point"
     },
     {
-      "id": 16,
-      "avatar": "require(\"../Images/kvyat.jpg\")",
-      "title": "daniil kvyat",
-      "email": "daniil.kvyat@f1.com",
-      "team": "toro rosso"
+    "id": 16,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "daniil kvyat",
+    "team": "toro rosso"
     },
     {
-      "id": 17,
-      "avatar": "require(\"../Images/albon.jpg\")",
-      "title": "alexander albon",
-      "email": "alexander.albon@f1.com",
-      "team": "toro rosso"
+    "id": 17,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "alexander albon",
+    "team": "toro rosso"
     },
     {
-      "id": 18,
-      "avatar": "require(\"../Images/russell.jpg\")",
-      "title": "george russell",
-      "email": "george.russell@f1.com",
-      "team": "williams"
+    "id": 18,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "george russell",
+    "team": "williams"
     },
     {
-      "id": 19,
-      "avatar": "require(\"../Images/kubica.jpg\")",
-      "title": "robert kubica",
-      "email": "robert.kubica@f1.com",
-      "team": "williams"
+    "id": 19,
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "title": "robert kubica",
+    "team": "williams"
     }
 ]
