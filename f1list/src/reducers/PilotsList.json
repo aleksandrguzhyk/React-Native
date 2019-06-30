@@ -1,121 +1,121 @@
 [
   {
     "id": 0,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/hamilton.jpg",
     "title": "lewis hamilton",
     "team": "mercedes"
   },
   {
     "id": 1,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/bottas.jpg",
     "title": "valteri bottas",
     "team": "mercedes"
     },
   {
     "id": 2,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/vettel.jpg",
     "title": "sebastian vettel",
     "team": "ferrari"
     },
   {
     "id": 3,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/leclerc.jpg",
     "title": "charles leclerc",
     "team": "ferrari"
     },
   {
     "id": 4,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/verstappen.jpg",
     "title": "max verstappen",
     "team": "red bull racing"
     },
   {
     "id": 5,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/gasly.jpg",
     "title": "pierre gasly",
     "team": "red bull racing"
     },
   {
     "id": 6,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/sainz.jpg",
     "title": "carlo sainz",
     "team": "maclaren"
     },
   {
     "id": 7,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/norris.jpg",
     "title": "landro norris",
     "team": "maclaren"
     },
   {
     "id": 8,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/raikkonen.jpg",
     "title": "kimi raikkonen",
     "team": "alfa romeo"
     },
     {
     "id": 9,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
-    "title": "antonio gioinazzi",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/giovinazzi.jpg",
+    "title": "antonio giovinazzi",
     "team": "alfa romeo"
     },
     {
     "id": 10,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/ricciardo.jpg",
     "title": "daniel ricciardo",
     "team": "renault"
     },
     {
     "id": 11,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/hulkenberg.jpg",
     "title": "nico hulkenberg",
     "team": "renault"
     },
     {
     "id": 12,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/magnussen.jpg",
     "title": "kevin magnussen",
     "team": "haas"
     },
     {
     "id": 13,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/grosjean.jpg",
     "title": "romain grosjean",
     "team": "haas"
     },
     {
     "id": 14,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/perez.jpg",
     "title": "sergio perez",
     "team": "racing point"
     },
     {
     "id": 15,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/stroll.jpg",
     "title": "lance stroll",
     "team": "racing point"
     },
     {
     "id": 16,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/kvyat.jpg",
     "title": "daniil kvyat",
     "team": "toro rosso"
     },
     {
     "id": 17,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/albon.jpg",
     "title": "alexander albon",
     "team": "toro rosso"
     },
     {
     "id": 18,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/russell.jpg",
     "title": "george russell",
     "team": "williams"
     },
     {
     "id": 19,
-    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/Images/avatar.png",
+    "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/kubica.jpg",
     "title": "robert kubica",
     "team": "williams"
     }

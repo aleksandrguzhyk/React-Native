@@ -1,5 +1,5 @@
-import React, {Component} from 'react'
-import {FlatList, View, Text} from 'react-native'
+import React, { Component } from 'react'
+import { FlatList, View } from 'react-native'
 import { connect } from 'react-redux'
 import PilotItem from '../PilotItem/PilotItem.js'
 import styles from './PilotsListStyles.js'

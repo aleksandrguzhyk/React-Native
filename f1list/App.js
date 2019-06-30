@@ -6,15 +6,15 @@
  * @flow
  */
 
-import React, {Component} from 'react';
-import {Platform, StyleSheet, Text, View} from 'react-native';
+import React, { Component } from 'react';
+import { StyleSheet, Text, View } from 'react-native';
 
 import reducers from './src/reducers';
 
-import {Provider} from 'react-redux';
-import {createStore} from 'redux';
+import { Provider } from 'react-redux';
+import { createStore } from 'redux';
 
-import PilotsList from './src/Components/PilotsList/PilotsList.js';
+import PilotsList from './src/components/PilotsList/PilotsList.js';
 
 type Props = {};
 export default class App extends Component<Props> {
