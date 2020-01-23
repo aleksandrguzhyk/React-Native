@@ -1,23 +1,11 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
-
 import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-
 import reducers from './src/reducers';
-
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
+import PilotsList from './src/components/PilotsList/PilotsList.js'
 
-import PilotsList from './src/components/PilotsList/PilotsList.js';
-
-type Props = {};
-export default class App extends Component<Props> {
+export default class App extends Component {
   render() {
     return (
       <Provider store = { createStore(reducers) } >

@@ -1,5 +1,6 @@
 PODS:
-  - QBImagePickerController (3.4.0)
+  - React (0.59.9):
+    - React/Core (= 0.59.9)
   - React/Core (0.59.9):
     - yoga (= 0.59.9.React)
   - React/fishhook (0.59.9)
@@ -28,11 +29,8 @@ PODS:
     - React/Core
     - React/fishhook
     - React/RCTBlob
-  - RNImageCropPicker (0.24.1):
-    - QBImagePickerController
-    - React/Core
-    - RSKImageCropper
-  - RSKImageCropper (2.2.1)
+  - RNGestureHandler (1.3.0):
+    - React
   - yoga (0.59.9.React)
 
 DEPENDENCIES:
@@ -47,29 +45,22 @@ DEPENDENCIES:
   - React/RCTText (from `../node_modules/react-native`)
   - React/RCTVibration (from `../node_modules/react-native`)
   - React/RCTWebSocket (from `../node_modules/react-native`)
-  - RNImageCropPicker (from `../node_modules/react-native-image-crop-picker`)
+  - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
   - yoga (from `../node_modules/react-native/ReactCommon/yoga/yoga.podspec`)
-
-SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
-    - QBImagePickerController
-    - RSKImageCropper
 
 EXTERNAL SOURCES:
   React:
     :path: "../node_modules/react-native"
-  RNImageCropPicker:
-    :path: "../node_modules/react-native-image-crop-picker"
+  RNGestureHandler:
+    :path: "../node_modules/react-native-gesture-handler"
   yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga/yoga.podspec"
 
 SPEC CHECKSUMS:
-  QBImagePickerController: d54cf93db6decf26baf6ed3472f336ef35cae022
   React: a86b92f00edbe1873a63e4a212c29b7a7ad5224f
-  RNImageCropPicker: 6134b66a3d5bc13e2895a97c630a4254006902b4
-  RSKImageCropper: 98296ad26b41753f796b6898d015509598f13d97
+  RNGestureHandler: 5329a942fce3d41c68b84c2c2276ce06a696d8b0
   yoga: 03ff42a6f223fb88deeaed60249020d80c3091ee
 
-PODFILE CHECKSUM: 1a5e8575468d035ebfc2b72925a59fa1a182f7be
+PODFILE CHECKSUM: e7d42b3376aad3c7f0dd45bd3d3a5f1d9958b6f8
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.8.1

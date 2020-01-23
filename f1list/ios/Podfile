@@ -7,11 +7,6 @@ target 'f1list-tvOS' do
 
   # Pods for f1list-tvOS
 
-  target 'f1list-tvOSTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
 end
 
 target 'f1list' do
@@ -33,7 +28,6 @@ target 'f1list' do
     'RCTWebSocket'
   ]
 
-  pod 'RNImageCropPicker', :path =>  '../node_modules/react-native-image-crop-picker'
   pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
 
 end
@@ -47,3 +41,8 @@ post_install do |installer|
     end
   end
 end
+
+  target 'f1list-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end

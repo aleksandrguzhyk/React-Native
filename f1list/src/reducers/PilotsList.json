@@ -3,120 +3,140 @@
     "id": 0,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/hamilton.jpg",
     "title": "lewis hamilton",
-    "team": "mercedes"
+    "team": "mercedes",
+    "bio": "https: //www.formula1.com/en/drivers/lewis-hamilton.html"
   },
   {
     "id": 1,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/bottas.jpg",
     "title": "valteri bottas",
-    "team": "mercedes"
+    "team": "mercedes",
+    "bio": "Learning his craft on Finnish roads of ice and snow, he was born to be a Grand Prix racer. Bottas explains that if you can drive on the frozen roads of his homeland then you can drive anywhere. Then there’s the Finnish mentality –reserved, diligent and calm the fast lane of F1 doesn’t faze him. Making his F1 debut with Williams in 2013, Bottas soon became part of the family. Points and podiums followed with the reliable racer even amassing the most points without a win, a record he resented but that showcased his ability. The fact the Finn was such a points machine saw him suddenly promoted to the most coveted seat in F1 - Nico Rosberg’s vacant championship-winning seat at Mercedes. Bottas blossomed at the Silver Arrows in 2017, unleashing his pace to clock up personal pole positions and victories as well as a team championship for the famous Mercedes marque alongside Lewis Hamilton. He even tied with Hamilton and Sebastian Vettel with 13 podiums. For a shy guy, it brought a confidence boost and a new swagger – albeit in a very demur Finnish fashion. He would need all that confidence in 2018 – a season Bottas described as his worst in F1, as he took zero wins to team mate Hamilton’s 11. That was a reflection more of his team mate’s brilliance thank of any shortcomings on his own part. Now there are fresh challenges for Bottas, who must regularly beat the man on the other side of the garage and fend off the Ferraris if he wants to drive home as the fourth Finnish world champion."
     },
   {
     "id": 2,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/vettel.jpg",
     "title": "sebastian vettel",
-    "team": "ferrari"
+    "team": "ferrari",
+    "bio": "https://www.formula1.com/en/drivers/sebastian-vettel.html"
     },
   {
     "id": 3,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/leclerc.jpg",
     "title": "charles leclerc",
-    "team": "ferrari"
+    "team": "ferrari",
+    "bio": "https://www.formula1.com/en/drivers/charles-leclerc.html"
     },
   {
     "id": 4,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/verstappen.jpg",
     "title": "max verstappen",
-    "team": "red bull racing"
+    "team": "red bull racing",
+    "bio": "https://www.formula1.com/en/drivers/max-verstappen.html"
     },
   {
     "id": 5,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/gasly.jpg",
     "title": "pierre gasly",
-    "team": "red bull racing"
+    "team": "red bull racing",
+    "bio": "https://www.formula1.com/en/drivers/pierre-gasly.html"
     },
   {
     "id": 6,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/sainz.jpg",
     "title": "carlo sainz",
-    "team": "maclaren"
+    "team": "maclaren",
+    "bio": "https://www.formula1.com/en/drivers/carlos-sainz.html"
     },
   {
     "id": 7,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/norris.jpg",
     "title": "landro norris",
-    "team": "maclaren"
+    "team": "maclaren",
+    "bio": "https://www.formula1.com/en/drivers/lando-norris.html"
     },
   {
     "id": 8,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/raikkonen.jpg",
     "title": "kimi raikkonen",
-    "team": "alfa romeo"
+    "team": "alfa romeo",
+    "bio": "https://www.formula1.com/en/drivers/kimi-raikkonen.html"
     },
     {
     "id": 9,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/giovinazzi.jpg",
     "title": "antonio giovinazzi",
-    "team": "alfa romeo"
+    "team": "alfa romeo",
+    "bio": "https://www.formula1.com/en/drivers/antonio-giovinazzi.html"
     },
     {
     "id": 10,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/ricciardo.jpg",
     "title": "daniel ricciardo",
-    "team": "renault"
+    "team": "renault",
+    "bio": "https://www.formula1.com/en/drivers/daniel-ricciardo.html"
     },
     {
     "id": 11,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/hulkenberg.jpg",
     "title": "nico hulkenberg",
-    "team": "renault"
+    "team": "renault",
+    "bio": "https://www.formula1.com/en/drivers/nico-hulkenberg.html"
     },
     {
     "id": 12,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/magnussen.jpg",
     "title": "kevin magnussen",
-    "team": "haas"
+    "team": "haas",
+    "bio": "https://www.formula1.com/en/drivers/kevin-magnussen.html"
     },
     {
     "id": 13,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/grosjean.jpg",
     "title": "romain grosjean",
-    "team": "haas"
+    "team": "haas",
+    "bio": "https://www.formula1.com/en/drivers/romain-grosjean.html"
     },
     {
     "id": 14,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/perez.jpg",
     "title": "sergio perez",
-    "team": "racing point"
+    "team": "racing point",
+    "bio": "https://www.formula1.com/en/drivers/sergio-perez.html"
     },
     {
     "id": 15,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/stroll.jpg",
     "title": "lance stroll",
-    "team": "racing point"
+    "team": "racing point",
+    "bio": "https://www.formula1.com/en/drivers/lance-stroll.html"
     },
     {
     "id": 16,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/kvyat.jpg",
     "title": "daniil kvyat",
-    "team": "toro rosso"
+    "team": "toro rosso",
+    "bio": "https://www.formula1.com/en/drivers/daniil-kvyat.html"
     },
     {
     "id": 17,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/albon.jpg",
     "title": "alexander albon",
-    "team": "toro rosso"
+    "team": "toro rosso",
+    "bio": "https://www.formula1.com/en/drivers/alexander-albon.html"
     },
     {
     "id": 18,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/russell.jpg",
     "title": "george russell",
-    "team": "williams"
+    "team": "williams",
+    "bio": "https://www.formula1.com/en/drivers/george-russell.html"
     },
     {
     "id": 19,
     "avatar": "/Users/OleksandrGuzhyk/GIT/React Native/f1list/src/images/kubica.jpg",
     "title": "robert kubica",
-    "team": "williams"
+    "team": "williams",
+    "bio": "https://www.formula1.com/en/drivers/robert-kubica.html"
     }
 ]
